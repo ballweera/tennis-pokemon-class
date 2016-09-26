@@ -16,3 +16,6 @@ describe('Tennis', function () {
   });
 });
 ```
+
+## How to run the test
+Run this command *node_modules/.bin/jasmine*
